@@ -1,0 +1,45 @@
+* Milestone 2
+
+Must
+[X] Player where he can walk and place a Bomb 
+[X] Enemy where it tries to touch and destroy the player
+[X] 1 level
+
+Should
+[X] Basic AI for Enemy
+[X] Collision System
+
+Could
+[X] Background Music
+[X] Collision Sounds
+
+Won't
+[Mulitple Levels]
+[Restart game]
+
+
+
+* Milestone 3
+
+Must
+[X] Bomb Damage includes bomb can kill bricks and enemy too
+[X] Multiple Levels
+[X] Player need to find the goal by blasting the bricks
+
+Should
+[X] Restart and pause the game
+[Multiple enemy types]
+
+Could
+[If player doesn't kill all the enemies the he cannot enter the goal]
+[X] Start screen instructions
+[Double strong brick where it needs two bombs to break it]
+
+Won't
+[A powerup picked where he can walk through the bricks]
+[A powerup where Bomb will have Larger explosion area]
+
+Extensions
+[X] Health Power up which gives extra life to player - Rudra Trivedi
+[X] Multiple bombs can be used at a time per player - Megharth Lakhataria
+[X] Blast the bomb control to player - Sai Teja Konda
