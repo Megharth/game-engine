@@ -82,4 +82,9 @@ You will need to download and install C++ tools and SDL2 (including extension li
     rm -r -fo SDL2_ttf-2.0.15
     ```
   
-  
+### Building the game
+
+  - Download the game you want from their respective branch
+  - Open up a terminal in the same directory and run `make` command. This will build the game for you. It may take some while.
+  - Now you can see a `bin` folder in your root directory.
+  - To run the game, type `./bin/GAME_NAME/main` from the root directory and it should start the game.
